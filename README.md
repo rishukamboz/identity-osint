@@ -1,5 +1,7 @@
 # RISHU – Honest Phone OSINT Tool (Linux)
 
+![RISHU OSINT Tool](Screenshot 2025-12-27 184832.png)
+
 This is a Linux-based Python OSINT tool created for educational purposes.
 It analyzes phone numbers using only public signals.
 
