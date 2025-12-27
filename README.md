@@ -1,6 +1,7 @@
 # RISHU – Honest Phone OSINT Tool (Linux)
 
-![RISHU OSINT Tool](./Screenshot 2025-12-27 184832.png)
+![RISHU OSINT Tool](screenshot.png)
+
 
 
 This is a Linux-based Python OSINT tool created for educational purposes.
