@@ -15,6 +15,22 @@ It analyzes phone numbers using only public signals.
 - Social platform presence (YES / NO only)
 - No fake operator or identity claims
 
+- ## Download & Installation
+
+Clone the repository from GitHub:
+
+```bash
+git clone https://github.com/rishukamboz/identity-osint.git
+cd identity-osint
+chmod +x osint.py
+chmod +x osint.py
+
+```md
+## Requirements
+
+- Linux / Kali Linux
+- Python 3.x
+
 ## Usage
 ```bash
 chmod +x osint.py
