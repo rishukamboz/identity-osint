@@ -15,6 +15,11 @@ It analyzes phone numbers using only public signals.
 - Social platform presence (YES / NO only)
 - No fake operator or identity claims
 
+- ## Requirements
+
+- Linux / Kali Linux
+- Python 3.x
+
 - ## Download & Installation
 
 Clone the repository from GitHub:
@@ -26,12 +31,8 @@ chmod +x osint.py
 chmod +x osint.py
 
 ```md
-## Requirements
 
-- Linux / Kali Linux
-- Python 3.x
-
-## Usage
+## RUN this tool 
 ```bash
 chmod +x osint.py
 ./osint.py
